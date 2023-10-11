@@ -20,8 +20,8 @@ Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
 ~~~
-NAME: Kadin Samson L
-REG.NO:212221230044
+NAME: mohamed aseem p
+REG.NO:212221230063
 
 ~~~
 ~~~
